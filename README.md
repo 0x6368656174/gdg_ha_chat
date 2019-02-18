@@ -20,6 +20,7 @@
 прописаны в `$PATH`):
 ```
 git clone https://github.com/0x6368656174/gdg_ha_chat
+cd gdg_ha_chat
 flutter packages get
 flutter run
 ```
