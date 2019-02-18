@@ -32,6 +32,7 @@ class ChatList extends StatelessWidget {
         (String nickname, List<Message> messages) {
       return messages.map((message) {
         return ChatMessage(
+            key: ValueKey(message.reference.documentID),
             text: message.message,
             nickname: message.nickname,
             own: message.nickname == nickname);
