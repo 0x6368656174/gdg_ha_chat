@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "476845466991",
+    "firebase_url": "https://gdg-ha-chat.firebaseio.com",
+    "project_id": "gdg-ha-chat",
+    "storage_bucket": "gdg-ha-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476845466991:android:0d5f17132ea570f7",
+        "android_client_info": {
+          "package_name": "ru.itquasar.gdg_ha_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476845466991-qtc94jvm84d0d1417ps0crh9bpm6qr4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPEhcPLJmO8Kuhsk-388iN10jUaVA0duk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
